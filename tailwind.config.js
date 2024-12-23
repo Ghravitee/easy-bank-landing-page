@@ -13,8 +13,8 @@ export default {
         "Very-Light-Gray": "hsl(0, 0%, 98%)",
       },
       backgroundImage: {
-        "intro-mobile": "url('./src/assets/bg-intro-mobile.svg')",
-        "intro-desktop": "url('./src/assets/bg-intro-desktop.svg')",
+        "intro-mobile": "url('/bg-intro-desktop.svg')",
+        "intro-desktop": "url('/bg-intro-mobile.svg')",
       },
     },
   },

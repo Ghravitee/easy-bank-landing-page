@@ -15,7 +15,7 @@ const Hero = () => {
           </p>
           <a
             href="#"
-            className="w-fit flex items-center justify-center px-8 py-3 bg-gradient-to-tr from-Lime-Green to-Bright-Cyan rounded-full text-Very-Light-Gray mx-auto mt-6 lg:mx-0 opacity-60"
+            className="w-fit flex items-center justify-center px-8 py-3 bg-gradient-to-tr from-Lime-Green to-Bright-Cyan rounded-full text-Very-Light-Gray mx-auto mt-6 lg:mx-0 hover:opacity-60"
           >
             Request Invite
           </a>
