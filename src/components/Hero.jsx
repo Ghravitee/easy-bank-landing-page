@@ -2,7 +2,7 @@ import mockup from "../assets/image-mockups.png";
 
 const Hero = () => {
   return (
-    <section className=" bg-Very-Light-Gray">
+    <main className=" bg-Very-Light-Gray">
       <div className="lg:grid lg:grid-cols-[.4fr_.6fr] lg:ml-[13.5rem] flex flex-col-reverse">
         <div className="flex flex-col gap-4 lg:gap-8 lg:mt-[16rem] px-8 pb-16 lg:px-0 lg:pb-0">
           <h1 className="text-Dark-Blue lg:text-[3.5rem] text-[2.5rem] leading-[1.1] text-center font-normal lg:text-left mt-8">
@@ -24,7 +24,7 @@ const Hero = () => {
           <img src={mockup} alt="" className="lg:ml-[6rem]" />
         </div>
       </div>
-    </section>
+    </main>
   );
 };
 
